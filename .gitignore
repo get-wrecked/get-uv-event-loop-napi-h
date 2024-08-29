@@ -18,3 +18,4 @@ coverage
 build
 node-addon-api
 reverse_test_modules
+.idea/
